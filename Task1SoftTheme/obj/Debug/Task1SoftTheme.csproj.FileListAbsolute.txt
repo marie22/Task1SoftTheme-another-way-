@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2012\Projects\Task1SoftTheme\Task1SoftTheme\bin\Debug\Task1SoftTheme.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\Task1SoftTheme\Task1SoftTheme\bin\Debug\Task1SoftTheme.exe
+c:\users\pc\documents\visual studio 2012\Projects\Task1SoftTheme\Task1SoftTheme\bin\Debug\Task1SoftTheme.pdb
+c:\users\pc\documents\visual studio 2012\Projects\Task1SoftTheme\Task1SoftTheme\obj\Debug\Task1SoftTheme.exe
+c:\users\pc\documents\visual studio 2012\Projects\Task1SoftTheme\Task1SoftTheme\obj\Debug\Task1SoftTheme.pdb
